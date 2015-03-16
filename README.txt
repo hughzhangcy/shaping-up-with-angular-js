@@ -1,1 +1,0 @@
-A good course about angular for beginner provided by Code School. 
